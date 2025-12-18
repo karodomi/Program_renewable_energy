@@ -9,12 +9,12 @@
 
 ##Datasets description:
 - Photovoltaic system:
-   **Karnataka, India parameters included:**
+ **Karnataka, India parameters included:**
   - AC power output
   - Module temperature
   - Solar irradiation
   - Wind speed
-  **Massachusetts, USA parameters included:**
+**Massachusetts, USA parameters included:**
   - Timestamp
   - Solar irradiation
   - Temperature
@@ -23,7 +23,7 @@
   - Solar PV output
 
 - Wind systems:
-  **Yalova, Turkey parameters included:**
+**Yalova, Turkey parameters included:**
   - Data, time
   - Wind speed
   - Active power
